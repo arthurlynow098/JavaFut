@@ -4,7 +4,7 @@
 
 <p align="center">Projeto de estudo em Java com domínio de futebol, distribuído em arquivo compactado.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="Java · POO · Futebol" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Java · POO · Futebol" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Pacote** | Arquivo compactado do projeto Java. | [Abrir pacote →](JavaFut.7z) |
-| **Preparação** | Orientações para extrair e abrir o projeto. | [Abrir preparação →](README.md) |
-| **Exploração** | Descompacte para consultar as classes na IDE. | [Abrir exploração →](JavaFut.7z) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Pacote</strong></td><td>Arquivo compactado do projeto Java.</td><td><a href="JavaFut.7z">Abrir pacote →</a></td></tr>
+<tr><td><strong>Preparação</strong></td><td>Orientações para extrair e abrir o projeto.</td><td><a href="README.md">Abrir preparação →</a></td></tr>
+<tr><td><strong>Exploração</strong></td><td>Descompacte para consultar as classes na IDE.</td><td><a href="JavaFut.7z">Abrir exploração →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
