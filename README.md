@@ -4,21 +4,33 @@
 
 <p align="center">Projeto de estudo em Java com domínio de futebol, distribuído em arquivo compactado.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-C52E36?style=flat-square" alt="Java">
-  <img src="https://img.shields.io/badge/POO-24272E?style=flat-square" alt="POO">
-  <img src="https://img.shields.io/badge/Futebol-24272E?style=flat-square" alt="Futebol">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Java · POO · Futebol" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Pacote** | Arquivo compactado do projeto Java. | [Abrir pacote →](JavaFut.7z) |
+| **Preparação** | Orientações para extrair e abrir o projeto. | [Abrir preparação →](README.md) |
+| **Exploração** | Descompacte para consultar as classes na IDE. | [Abrir exploração →](JavaFut.7z) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 Modelar o domínio do futebol — times, partidas, placares e estatísticas de jogadores — é uma excelente forma de praticar estruturas de dados e orientação a objetos em **Java**. O repositório **JavaFut** preserva o pacote completo do projeto (JavaFut.7z), mantendo a estrutura original de diretórios da IDE pronta para descompactação e importação.
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Recurso | Como funciona |
 |---|---|
@@ -26,7 +38,9 @@ Modelar o domínio do futebol — times, partidas, placares e estatísticas de j
 | Pacote íntegro de projeto | O arquivo JavaFut.7z preserva a árvore completa de código-fonte e metadados do projeto Java. |
 | Portabilidade | Permite extrair e importar diretamente no IntelliJ IDEA, Eclipse, NetBeans ou VS Code. |
 
-## Tecnologias
+<a id="tecnologias"></a>
+
+![Tecnologias](assets/docs/section-04.svg)
 
 - **Java SE** para implementação das regras de negócio e classes do domínio esportivo;
 - **Compactação 7z (JavaFut.7z)** para distribuição unificada do workspace.
@@ -50,14 +64,16 @@ flowchart LR
 ```text
 JavaFut/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── JavaFut.7z                      Pacote compactado contendo o projeto Java completo
 └── README.md
 ```
 
 </details>
 
-## Como executar
+<a id="como-executar"></a>
+
+![Como executar](assets/docs/section-05.svg)
 
 1. Clone o repositório:
    ```bash
