@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de JavaFut" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="JavaFut" width="100%">
 </p>
-
-<h1 align="center">JavaFut</h1>
 
 <p align="center">Projeto de estudo em Java com domínio de futebol, distribuído em arquivo compactado.</p>
 
